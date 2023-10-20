@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Menu"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Menu" />
+    <item
+        android:id="@+id/Categories"
+        android:icon="@drawable/baseline_category_24"
+        android:title="Categories" />
+    <item
+        android:id="@+id/Live"
+        android:icon="@drawable/baseline_live_tv_24"
+        android:title="Live" />
+    <item
+        android:id="@+id/Tabs"
+        android:icon="@drawable/baseline_tab_24"
+        android:title="Tabs" />
+    <!-- Add more items here -->
+</menu>

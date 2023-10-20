@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">StudyTime</string>
+    <string name="username">User</string>
+    <string name="nav_toolbar_desc">Navigation Toolbar</string>
+    <string name="user_profile_pic">User Profile Pic</string>
+    <string name="hamburger_icon">Hamburger Icon</string>
+    <string name="logo">Logo</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="arrow_icon">Arrow Icon</string>
+    <string name="search_bar_hint">Search for anything</string>
+    <string name="mic_icon">Mic Icon</string>
+    <string name="recent_search">RECENT SEARCHES</string>
+    <string name="clear_search">Clear</string>
+    <string name="clear_search_prompt">Do you want to clear your search history?</string>
+    <string name="yes_prompt">Yes</string>
+    <string name="no_prompt">No</string>
+    <string name="exit_prompt">Do you want to exit?</string>
+    <string name="logout_prompt">Do you want to Logout?</string>
+    <string name="scroll_view_desc">Horizontal Scroll view</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scroll_view_for_menu">Scroll view for menu</string>
+    <string name="overlay_image">Overlay Image</string>
+    <string name="popular_videos">Popular Videos</string>
+    <string name="popular_image_1">Popular image 1</string>
+    <string name="popular_image_2">Popular Image 2</string>
+    <string name="popular_image_3">Popular Image 3</string>
+    <string name="popular_image_4">Popular Image 4</string>
+    <string name="popular_image_5">Popular Image 5</string>
+    <string name="our_teachers">Our Teachers</string>
+    <string name="teacher_pic_1">Teacher pic 1</string>
+    <string name="teacher_pic_2">Teacher pic 2</string>
+    <string name="social_platforms">Social Platforms</string>
+    <string name="youtube_logo">Youtube logo</string>
+    <string name="facebook_logo">Facebook logo</string>
+    <string name="instagram_logo">Instagram Logo</string>
+    <string name="telegram_logo">Telegram Logo</string>
+    <string name="spinner_item">spinner_item</string>
+    <string name="spinner_subject">spinner_subject</string>
+    <string name="spinner_class">spinner_class</string>
+    <string-array name="dropdown_items_class">
+        <item>Select Your Class</item>
+        <item>Class 10</item>
+        <item>Class 9</item>
+        <item>Class 8</item>
+    </string-array>
+    <string-array name="default_items_subject">
+        <item>Select Your Subject</item>
+    </string-array>
+    <string-array name="class10_items_subject">
+        <item>Select Your Subject</item>
+        <item>Math</item>
+        <item>Physical Science</item>
+        <item>History</item>
+    </string-array>
+    <string-array name="class9_items_subject">
+        <item>Select Your Subject</item>
+        <item>Math</item>
+        <item>Physical Science</item>
+        <item>Life Science</item>
+    </string-array>
+    <string-array name="class8_items_subject">
+        <item>Select Your Subject</item>
+        <item>Math</item>
+        <item>Physical Science</item>
+        <item>Geography</item>
+    </string-array>
+    <string-array name="dropdown_items">
+        <item>Select Your Item</item>
+        <item>PDF</item>
+        <item>LINKS</item>
+    </string-array>
+    <string-array name="default_dropdown_items">
+        <item>Select Your Item</item>
+    </string-array>
+    <string name="SELECT_CLASS">SELECT CLASS</string>
+    <string name="CHOOSE_SUBJECT">CHOOSE SUBJECT</string>
+    <string name="CHOOSE_ITEM">CHOOSE ITEM</string>
+    <string name="submit">SUBMIT</string>
+
+
+</resources>
